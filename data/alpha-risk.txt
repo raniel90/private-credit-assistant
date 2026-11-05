@@ -1,0 +1,7 @@
+Portfolio Alpha is a fictional private credit fund. Its risk policy limits
+single-name exposure to 7 percent of net asset value. For this simplified lab,
+single-name means one borrower, and exposure is outstanding loan principal.
+A risk officer must review an exception before a trade is approved. In this
+policy, a trade includes a proposed loan disbursement. Review does not itself
+authorize the loan. This fictional policy is demonstration material and does
+not describe any real institution's policies.

@@ -1,0 +1,12 @@
+{
+  "scenario_id": "alpha-acme-private-loan",
+  "portfolio": "Portfolio Alpha",
+  "security": "Acme Corp senior secured loan",
+  "borrower": "Acme Corp",
+  "instrument_type": "senior_secured_loan",
+  "currency": "USD",
+  "tenor_months": 36,
+  "net_asset_value_usd": 100000000,
+  "current_exposure_usd": 7000000,
+  "proposed_purchase_usd": 1000000
+}

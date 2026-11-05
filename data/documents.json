@@ -1,0 +1,23 @@
+[
+  {
+    "document_id": "alpha-risk",
+    "title": "Alpha Private Credit Risk Policy",
+    "source_path": "data/alpha-risk.txt",
+    "tenant_id": "fund",
+    "allowed_groups": ["risk"]
+  },
+  {
+    "document_id": "alpha-research",
+    "title": "Acme Private Credit Memorandum",
+    "source_path": "data/alpha-research.txt",
+    "tenant_id": "fund",
+    "allowed_groups": ["credit"]
+  },
+  {
+    "document_id": "beta-risk",
+    "title": "Beta Private Credit Risk Policy",
+    "source_path": "data/beta-risk.txt",
+    "tenant_id": "fund",
+    "allowed_groups": ["credit"]
+  }
+]

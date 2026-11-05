@@ -1,0 +1,6 @@
+Fictional credit memorandum: Acme Corp requests a USD 1,000,000 senior secured
+loan from Portfolio Alpha. The fund already has USD 7,000,000 of outstanding
+loan principal to Acme and has USD 100,000,000 of net asset value. The proposed
+loan has a 36-month term. Collateral valuation, repayment capacity and covenant
+compliance remain subject to analyst review; they are not established by this
+memo. This is synthetic demonstration material, not real client data.

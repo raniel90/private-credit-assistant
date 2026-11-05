@@ -1,0 +1,33 @@
+# Python and local tooling
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated data, model weights, logs and scratch files
+.cache/
+qdrant_storage/
+*.log
+*.onnx
+*.gguf
+*.safetensors
+work/
+artifacts/
+.playwright-mcp/
+.DS_Store
+.idea/
+.vscode/
